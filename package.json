@@ -1,0 +1,14 @@
+{
+  "name": "latihan-ui-cypress",
+  "version": "1.0.0",
+  "description": "ui-automation-cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Puput",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
